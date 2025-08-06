@@ -17,6 +17,62 @@
 
 ![Gráfico de Previsão](31022100.png)
 
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Ponta Grossa
+- Produto (NCM): Sulfato de amônio-31022100 
+- Mês previsto: 10
+
+Fator Influenciador:
+quant_expl    DAP_lag7
+mês_expl            12
+importance    0.017359
+Name: 14, dtype: object
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31042090.png)
 
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Ponta Grossa
+- Produto (NCM): Outros cloretos de potássio-31042090 
+- Mês previsto: 09
+
+Fator Influenciador:
+quant_expl    DAP_lag6
+mês_expl            09
+importance     0.07589
+Name: 9, dtype: object
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31054000.png)
+
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Ponta Grossa
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 08
+
+Fator Influenciador:
+quant_expl    DAP_lag4
+mês_expl            09
+importance    0.063763
+Name: 6, dtype: object
+
+
+
+
+
