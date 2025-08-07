@@ -25,10 +25,10 @@ Previsão Influenciada:
 - Mês previsto: 08
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-        - UF SP
-        - Unidade sm_diff
+Fator Influenciador: Comércio Exterior
+- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF SP
+- Unidade sm_diff
 \n
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 - Mês previsto: 01
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF RJ
-        - Unidade kt_lag13
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF RJ
+- Unidade kt_lag13
 \n
 
 
@@ -63,10 +63,10 @@ Previsão Influenciada:
 - Mês previsto: 08
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-        - UF MA
-        - Unidade sm_diff
+Fator Influenciador: Comércio Exterior
+- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF MA
+- Unidade sm_diff
 \n
 
 
