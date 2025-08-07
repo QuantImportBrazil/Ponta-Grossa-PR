@@ -24,26 +24,10 @@ Previsão Influenciada:
 - Produto (NCM): Sulfato de amônio-31022100 
 - Mês previsto: 10
 
-Fator Influenciador:
-   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-14   DAP_lag7       12     None     None     None    None       None     None   
-
-    importance mês_target mun_target ncm_target anos_expl marca  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
-14    0.017359         10    4119905   31022100         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag4
+        - Mês 01
+        - UF MG
 
 
 
@@ -60,26 +44,10 @@ Previsão Influenciada:
 - Produto (NCM): Outros cloretos de potássio-31042090 
 - Mês previsto: 09
 
-Fator Influenciador:
-  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-9   DAP_lag6       09     None     None     None    None       None     None   
-
-   importance mês_target mun_target ncm_target anos_expl  marca  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
-9     0.07589         09    4119905   31042090         8  igual  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag3
+        - Mês 08
+        - UF MG
 
 
 
@@ -94,28 +62,12 @@ Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Ponta Grossa
 - Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 08
+- Mês previsto: 04
 
-Fator Influenciador:
-  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-6   DAP_lag4       09     None     None     None    None       None     None   
-
-   importance mês_target mun_target ncm_target anos_expl marca  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
-6    0.063763         08    4119905   31054000         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag6
+        - Mês 04
+        - UF AL
 
 
 
