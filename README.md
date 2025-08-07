@@ -33,6 +33,12 @@ Fator Influenciador: Comércio Exterior
 
 
 
+
+
+
+
+
+
 .
 
 ![Gráfico de Previsão](31042090.png)
@@ -53,6 +59,12 @@ Fator Influenciador: Comércio Exterior
 
 
 
+
+
+
+
+
+
 .
 
 ![Gráfico de Previsão](31054000.png)
@@ -69,6 +81,12 @@ Fator Influenciador: Comércio Exterior
 - Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
 - UF: MA
 - Unidade: sm_diff
+
+
+
+
+
+
 
 
 
